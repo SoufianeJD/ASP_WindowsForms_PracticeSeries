@@ -1,0 +1,48 @@
+﻿.text {
+            width: 184px;
+            margin-left: 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+
+.Africa {
+    background-color: black;
+    position: relative;
+    padding: -25px;
+    top: -37px;
+}
+
+b {
+    color: white;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    left: 10px;
+}
+
+
+
+.text1 {
+    position: relative;
+    bottom: 0px;
+    left: 30px;
+}
+
+body {
+    background-image: url('../Images/back.jpg');
+}
+
+.images {
+    width: 171%;
+    height: 162%;
+    position: relative;
+    top: -42px;
+}
+
+.backwhite {
+    background-color: navajowhite;
+}
+
